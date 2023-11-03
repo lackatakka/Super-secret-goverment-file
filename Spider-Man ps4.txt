@@ -1,0 +1,15 @@
+<DOCTYPE html>
+<html>
+
+<body style="background-color:red;">
+
+<h1> Spider-man </h1>
+
+<img src="i luv men.jpg" alt="morteza">
+
+<iframe width="315" height="315" src="https://www.youtube.com/embed/RK7QahiWmkI?si=B29sV5s15zZlYk36" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+<body>
+ <button onclick="window.location.href = 'knapper.html';">WOW</button>
+</body>
